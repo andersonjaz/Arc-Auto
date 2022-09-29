@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Arc-Auto/static/css/main.139220ca.css",
+    "main.js": "/Arc-Auto/static/js/main.e3a95ff4.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Arc-Auto/static/js/787.1ed0c42c.chunk.js",
+    "static/media/image1.jpg": "/Arc-Auto/static/media/image1.2052e1383222f9bda58e.jpg",
+    "static/media/image3.jpg": "/Arc-Auto/static/media/image3.57024a6d9255e23c9d04.jpg",
+    "static/media/image4.jpg": "/Arc-Auto/static/media/image4.0ce5f5b1fd7cdfe39bc2.jpg",
+    "static/media/image5.jpg": "/Arc-Auto/static/media/image5.9820dde14555b009e821.jpg",
+    "static/media/image6.jpg": "/Arc-Auto/static/media/image6.ad6df1b6a149515210ac.jpg",
+    "static/media/image2.jpg": "/Arc-Auto/static/media/image2.9b9a17e3027186380000.jpg",
+    "static/media/AboutMe.jpg": "/Arc-Auto/static/media/AboutMe.dd38184f3e09735ee399.jpg",
+    "static/media/Backgroundimage.JPEG": "/Arc-Auto/static/media/Backgroundimage.10ab32837e3aa2b97eb5.JPEG",
+    "index.html": "/Arc-Auto/index.html",
+    "main.139220ca.css.map": "/Arc-Auto/static/css/main.139220ca.css.map",
+    "main.e3a95ff4.js.map": "/Arc-Auto/static/js/main.e3a95ff4.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Arc-Auto/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.139220ca.css",
+    "static/js/main.e3a95ff4.js"
+  ]
+}
